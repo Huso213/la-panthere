@@ -1235,10 +1235,8 @@ margin:0px 10px 0 10px;
 
   /*4 image page d'accueil*/
   .img-responsive.portfolio-thumb{
-    width: 50%;
+    width: 100%;
     margin: 0;
-    padding: 0;
-    display: flex;
     height: auto;
   }
   /*fond gris touche contacter nous*/
