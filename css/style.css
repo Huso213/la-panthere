@@ -768,12 +768,6 @@ span.citation {
   justify-content: center;
 }
 
-/*text footer*/
-div.keywords{
-  color: white;
-  text-align: center;
-}
-
 /*text page d'accueil*/
 .text-center-page-1.white {
   display: flex;
@@ -1372,10 +1366,7 @@ margin:0px 10px 0 10px;
     width: 100%;
     margin: 0 0 0 0;
   }
-  .row.row-no-gutters.social.keywords {
-    width: 90%;
-    margin: 0;
-  }
+  
 
   .btn-atomic-tangerine {
     border: solid;
@@ -1390,15 +1381,4 @@ margin:0px 10px 0 10px;
     width: 50%;
   }
 
-  .keywords {
-    width: auto;
-    margin: 15px 2em 3em 2em;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-  }
-  .keywords .p{
-    font-size: 1.1em;
-    color: white;
-  }
 }
